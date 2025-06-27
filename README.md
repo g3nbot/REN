@@ -45,8 +45,6 @@ Built in Python (Web3.py)
 
 Secure transaction signing, ABI-based interactions
 
-Extendable for DAOs, staking, and audit logs
-
 👋 This is just the beginning
 This is an early DRAFT.
 
@@ -55,7 +53,7 @@ We’re sharing this openly to invite builders, thinkers, roboticists, AI engine
 If you're interested in helping shape the future of a decentralized robot economy — you’re warmly invited to contribute.
 
 💬 Join the Conversation
-👉 Join our Slack
+👉 Join our Slack： https://join.slack.com/t/g3n-workspace/shared_invite/zt-37uxlb20k-oEYRZemXP~JEH~c5PApkUQ
 
 Let’s co-create a future where robots work for humanity — not against it.
 
